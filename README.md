@@ -2,9 +2,12 @@
   <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner1.png" alt="GitHub Banner"/>
 </div>
 
-DevOps Consultant | Delta Technology
 
-Cloud & Kubernetes Infrastructure Engineer
+# 👋 Hi, I'm Hari Krishna Palepu
+
+### Software Engineer II – SRE @ JPMorgan Chase  
+🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+
 
 🚀 DevOps • Cloud • Automation | Kubernetes | Terraform | CI/CD | Linux | Docker | AWS
 
