@@ -44,19 +44,6 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ---
 
-### 💼 Career Snapshot
-
-- 🏢 **JPMorgan Chase** – *Software Engineer II – SRE*  
-  Managing GAIA-based infrastructure with Kubernetes and Jules. Driving CI/CD and observability strategy across critical internal platforms.
-
-- 🏢 **Presidio** – *Senior DevOps Engineer*  
-  Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
-
-- 🏢 **CGI** – *Systems Engineer*  
-  Designed secure cloud infrastructure using AWS & Azure. Built CI/CD pipelines, implemented IaC, and improved uptime and efficiency.
-
-- 🏢 **Avineon** – *GIS Engineer*  
-  Developed spatial mapping solutions using AutoCAD. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
 
 ---
 
