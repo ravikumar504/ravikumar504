@@ -5,6 +5,7 @@
 <b>Engineering Scalable, Automated & Cost-Optimized Cloud Infrastructure</b>
 
 ---
+<hr style="height:3px;border:none;background-color:#c5c5c5;">
 
 DevOps Consultant | Delta Technology
 
