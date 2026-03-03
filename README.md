@@ -2,23 +2,24 @@
   <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner1.png" alt="GitHub Banner"/>
 </div>
 <br>
-<b>Engineering Scalable, Automated & Cost-Optimized Cloud Infrastructure</b>
+<b>☁️ Engineering Secure, Scalable & Cost-Efficient Platforms</b>
 
 ---
-<hr style="height:1px;border:none;background-color:#e0e0e0;">
 
-DevOps Consultant | Delta Technology
+### Consultant | Delta Technology
 
-🚀 DevOps • Cloud • Automation | Kubernetes | CI/CD | Linux | Docker | AWS
-
-
-
-### DevOps Consultant | Delta Technology
-
-🚀 DevOps • Cloud • Automation | Kubernetes | Terraform | CI/CD | Linux | Docker | AWS
+🚀 DevOps • Cloud • Automation 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
 [![Gmail](https://img.shields.io/badge/Email-bandiravi504@gmail.com-red?logo=gmail&style=flat)](mailto:bandiravi504@gmail.com)
+
+---
+### 🚀 Key Highlights
+
+- Reduced AWS infrastructure costs by 30%
+- Managed production Kubernetes clusters
+- Built CI/CD pipelines for containerized applications
+- Implemented FinOps-aligned optimization practices
 
 ---
 
