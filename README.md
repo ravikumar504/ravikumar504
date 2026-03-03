@@ -2,7 +2,7 @@
   <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner1.png" alt="GitHub Banner"/>
 </div>
 
-# 👋 Hi, I'm Bandi Ravi Kumar
+# Engineering Scalable, Automated & Cost-Optimized Cloud Infrastructure
 
 ### DevOps Consultant | Delta Technology
 🚀 DevOps • Cloud • Automation | Kubernetes | Terraform | CI/CD | Linux | Docker | AWS
