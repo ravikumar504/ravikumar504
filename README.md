@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner1.png" alt="GitHub Banner"/>
+  <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner2.png" alt="GitHub Banner"/>
 </div>
 <br>
 <b>☁️ Engineering Secure, Scalable & Cost-Efficient Platforms</b>
