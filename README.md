@@ -4,9 +4,7 @@
 
 
 
-### Software Engineer II – SRE @ JPMorgan Chase 
-🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
-
+### DevOps Consultant | Delta Technology
 
 🚀 DevOps • Cloud • Automation | Kubernetes | Terraform | CI/CD | Linux | Docker | AWS
 
