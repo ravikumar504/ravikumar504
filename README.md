@@ -3,7 +3,7 @@
 </div>
 
 
-# 👋 Hi, I'm Hari Krishna Palepu
+# Engineering
 
 ### Software Engineer II – SRE @ JPMorgan Chase  
 🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
