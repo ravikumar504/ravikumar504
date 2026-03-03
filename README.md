@@ -2,7 +2,7 @@
   <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner1.png" alt="GitHub Banner"/>
 </div>
 
-# <h3>🚀 DevOps • Cloud • Automation</h3>
+# 🚀 DevOps • Cloud • Automation
 
 ### Software Engineer II – SRE @ JPMorgan Chase 
 🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
