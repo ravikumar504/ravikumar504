@@ -2,7 +2,7 @@
   <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner1.png" alt="GitHub Banner"/>
 </div>
 
-# Engineering Scalable, Automated & Cost-Optimized Cloud Infrastructure
+# Engineering 
 
 ### DevOps Consultant | Delta Technology
 🚀 DevOps • Cloud • Automation | Kubernetes | Terraform | CI/CD | Linux | Docker | AWS
