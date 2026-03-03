@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Bandi Ravi Kumar
 
 ### Consultant @ Delta Technology 
-🚀 DevOps • Cloud • Automation | AWS | CI/CD | Kubernetes | Terraform | Docker
+🚀 DevOps • Cloud • Automation | Kubernetes | Terraform | CI/CD | Linux | Docker | AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/haripalepu/)
 [![Gmail](https://img.shields.io/badge/Email-bandiravi504@gmail.com-red?logo=gmail&style=flat)](mailto:bandiravi504@gmail.com)
