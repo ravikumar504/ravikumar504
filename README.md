@@ -17,9 +17,9 @@
 ### 🚀 Key Highlights
 
 - Reduced AWS infrastructure costs by 30%
-- Managed production Kubernetes clusters
+- Zero-downtime Kubernetes deployments
 - Built CI/CD pipelines for containerized applications
-- Implemented FinOps-aligned optimization practices
+- FinOps-driven cloud cost optimization
 
 ---
 
@@ -29,15 +29,14 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ### 🧰 Tech Stack
 
-- **Cloud**: AWS 
+- **Cloud**: Amazon Web Services 
 - **CI/CD**: Jenkins
-- **SCM**: GitHub
-- **IaC**: Terraform  
-- **Containers**: Docker, Kubernetes  
-- **Scripting**: Shell  
-- **Monitoring**: Prometheus, CloudWatch 
-- **Security**: IAM, RBAC 
-- **Tools**:  SonarQube
+- **Source Control**: GitHub
+- **Infrastructure as code**: Terraform  
+- **Containers & Orchestration**: Docker,Kubernetes    
+- **Monitoring**: Prometheus, Amazon CloudWatch 
+- **Security / DevSecOps**: IAM,RBAC,SonarQube
+ - **Scripting**: Bash/Shell
 - **Operating Systems**: Linux
 
 ---
