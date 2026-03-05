@@ -18,12 +18,13 @@
 
 - Reduced AWS infrastructure costs by 30%
 - Zero-downtime Kubernetes deployments
-- Built CI/CD pipelines for containerized applications
-- FinOps-driven cloud cost optimization
+- Built CI/CD Pipelines | 60% Faster Deployments
+- Terraform IaC – 50% Faster Provisioning
+- FinOps Cloud Cost Optimization
 
 ---
 
-I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
+**DevOps Engineer** with 10+ years of IT experience, including **5+ years specializing** in DevOps, automation, and cloud-native infrastructure. Experienced in building CI/CD pipelines, containerizing applications with Docker, and orchestrating scalable Kubernetes workloads with zero-downtime deployments. Proficient in Infrastructure as Code using Terraform and implementing DevSecOps practices, observability with Prometheus, Grafana, and CloudWatch, and FinOps-driven cloud cost optimization..
 
 ---
 
