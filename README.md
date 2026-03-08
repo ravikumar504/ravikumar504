@@ -30,7 +30,7 @@
 
 ---
 
-**DevOps Engineer** with 10+ years of IT experience, including **5+ years specializing** in DevOps, cloud automation, and cloud-native infrastructure.. Experienced in building CI/CD pipelines, containerizing applications with Docker, and orchestrating scalable Kubernetes workloads with zero-downtime deployments. Proficient in Infrastructure as Code using Terraform and implementing DevSecOps practices, observability with Prometheus, Grafana, and CloudWatch, and FinOps-driven cloud cost optimization.
+**DevOps Engineer** with 10+ years of IT experience, including **5+ years specializing** in DevOps, cloud automation, and cloud-native infrastructure. Experienced in building CI/CD pipelines, containerizing applications with Docker, and orchestrating scalable Kubernetes workloads with zero-downtime deployments. Proficient in Infrastructure as Code using Terraform and implementing DevSecOps practices, observability with Prometheus, Grafana, and CloudWatch, and FinOps-driven cloud cost optimization.
 
 ---
 
