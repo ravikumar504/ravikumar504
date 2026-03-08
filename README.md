@@ -8,7 +8,7 @@
   <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner3.png" alt="GitHub Banner"/>
 </div>
 <br>
-<b>☁️ Engineering Secure, Scalable & Cost-Efficient Platforms</b>
+<b>☁️ Building Secure, Scalable & Cost-Efficient Platforms</b>
 
 ---
 
@@ -66,7 +66,7 @@ Build and maintain end-to-end **CI/CD pipelines** using **Jenkins**, automating 
 Integrate security into CI/CD pipelines using **SonarQube** and protect internet-facing applications with **Cloudflare WAF** to strengthen application security.
 
 📊 **Monitoring & Observability**  
-Implement infrastructure and application monitoring using **CloudWatch, Prometheus, and Grafana**, enabling proactive alerting and performance visibility.
+Implement infrastructure and application monitoring using **Prometheus, Grafana and CloudWatch**, enabling proactive alerting and performance visibility.
 
 🛡️ **Security & Access Governance**  
 Enforce secure access control using **AWS IAM and Kubernetes RBAC**, implementing role-based and least-privilege policies to protect cloud and application resources.
@@ -135,4 +135,4 @@ Enforce secure access control using **AWS IAM and Kubernetes RBAC**, implementin
 
 ---
 
-Thanks for visiting!
+Thanks for visiting my profile!
