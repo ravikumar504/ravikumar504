@@ -42,16 +42,28 @@
 
 ---
 
-### 🔧 What I Do
+## 🛠 What I Do
 
-- 🛠️ Build and manage infrastructure on **AWS** and **Azure** using **Terraform** for repeatable, secure provisioning  
-- ☁️ Operate services on **GAIA Private Cloud** with **Kubernetes** and **Jules**, delivering secure and efficient internal deployments  
-- 🚀 Design high-performance **CI/CD pipelines** using **Azure DevOps**, **GitHub Actions**, **Jenkins**, and **Jules**, reducing delivery friction  
-- 🗃️ Manage codebases and collaboration with **GitHub** and **Bitbucket**, ensuring streamlined source control and peer workflows  
-- 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python**, improving consistency and speed  
-- 🧪 Enforce quality with **SonarQube**, and manage artifacts with **Nexus** and **JFrog Artifactory**  
-- 🔐 Secure cloud environments using **IAM**, **RBAC**, and **Azure Key Vault**, ensuring compliance and access control  
-- 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **CloudWatch**, minimizing downtime
+🔹 **Cloud Cost Optimization & FinOps**  
+Optimize AWS cloud costs by rightsizing EC2 instances, improving storage utilization, reducing VPC data transfer, and implementing S3 lifecycle policies to eliminate unused resources.
+
+🔹 **Infrastructure as Code (IaC)**  
+Design and automate AWS infrastructure using **Terraform**, creating reusable modules to standardize provisioning and maintain consistent, scalable environments.
+
+🔹 **Containerization & Kubernetes Orchestration**  
+Containerize applications using **Docker** and orchestrate workloads with **Kubernetes**, implementing Deployments, Services, and Horizontal Pod Autoscaler for resilient and scalable microservices.
+
+🔹 **CI/CD Pipeline Engineering**  
+Build and maintain end-to-end **CI/CD pipelines** using **Jenkins**, automating build, test, and deployment workflows to accelerate software delivery.
+
+🔹 **DevSecOps Integration**  
+Integrate security into CI/CD pipelines using **SonarQube** and protect internet-facing applications with **Cloudflare WAF** to strengthen application security.
+
+🔹 **Monitoring & Observability**  
+Implement infrastructure and application monitoring using **CloudWatch, Prometheus, and Grafana**, enabling proactive alerting and performance visibility.
+
+🔹 **Security & Access Governance**  
+Enforce secure access control using **AWS IAM and Kubernetes RBAC**, implementing role-based and least-privilege policies to protect cloud and application resources.
 
 ---
 
