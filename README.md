@@ -50,25 +50,25 @@
 
 ## 🛠 What I Do
 
-🔹 **Cloud Cost Optimization & FinOps**  
+☁️ **Cloud Cost Optimization & FinOps**  
 Optimize AWS cloud costs by rightsizing EC2 instances, improving storage utilization, reducing VPC data transfer, and implementing S3 lifecycle policies to eliminate unused resources.
 
-🔹 **Infrastructure as Code (IaC)**  
+🏗️ **Infrastructure as Code (IaC)**  
 Design and automate AWS infrastructure using **Terraform**, creating reusable modules to standardize provisioning and maintain consistent, scalable environments.
 
-🔹 **Containerization & Kubernetes Orchestration**  
+🐳 **Containerization & Kubernetes Orchestration**  
 Containerize applications using **Docker** and orchestrate workloads with **Kubernetes**, implementing Deployments, Services, and Horizontal Pod Autoscaler for resilient and scalable microservices.
 
-🔹 **CI/CD Pipeline Engineering**  
+🔄 **CI/CD Pipeline Engineering**  
 Build and maintain end-to-end **CI/CD pipelines** using **Jenkins**, automating build, test, and deployment workflows to accelerate software delivery.
 
-🔹 **DevSecOps Integration**  
+🔐 **DevSecOps Integration**  
 Integrate security into CI/CD pipelines using **SonarQube** and protect internet-facing applications with **Cloudflare WAF** to strengthen application security.
 
-🔹 **Monitoring & Observability**  
+📊 **Monitoring & Observability**  
 Implement infrastructure and application monitoring using **CloudWatch, Prometheus, and Grafana**, enabling proactive alerting and performance visibility.
 
-🔹 **Security & Access Governance**  
+🛡️ **Security & Access Governance**  
 Enforce secure access control using **AWS IAM and Kubernetes RBAC**, implementing role-based and least-privilege policies to protect cloud and application resources.
 
 ---
