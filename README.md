@@ -123,4 +123,13 @@ Enforce secure access control using **AWS IAM and Kubernetes RBAC**, implementin
 </p>
 
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ravikumar504&show_icons=true&theme=default" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar504&layout=compact" height="150"/>
+</p>
+
 Thanks for visiting!
