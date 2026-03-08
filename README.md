@@ -1,3 +1,9 @@
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation" />
+</p>
+
+
 <div align="center">
   <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner3.png" alt="GitHub Banner"/>
 </div>
@@ -16,15 +22,15 @@
 ---
 ### 🚀 Key Highlights
 
-- Reduced AWS infrastructure costs by 30%
-- Zero-downtime Kubernetes deployments
-- Built CI/CD Pipelines | 60% Faster Deployments
-- Terraform IaC – 50% Faster Provisioning
-- FinOps Cloud Cost Optimization
+- Optimized AWS infrastructure costs by **30%**
+- Implemented **zero-downtime Kubernetes deployments**
+- Built **CI/CD pipelines reducing deployment time by 60%**
+- Automated infrastructure with **Terraform IaC (50% faster provisioning)**
+- Implemented **FinOps-driven cloud cost optimization**
 
 ---
 
-**DevOps Engineer** with 10+ years of IT experience, including **5+ years specializing** in DevOps, automation, and cloud-native infrastructure. Experienced in building CI/CD pipelines, containerizing applications with Docker, and orchestrating scalable Kubernetes workloads with zero-downtime deployments. Proficient in Infrastructure as Code using Terraform and implementing DevSecOps practices, observability with Prometheus, Grafana, and CloudWatch, and FinOps-driven cloud cost optimization..
+**DevOps Engineer** with 10+ years of IT experience, including **5+ years specializing** in DevOps, automation, and cloud-native infrastructure. Experienced in building CI/CD pipelines, containerizing applications with Docker, and orchestrating scalable Kubernetes workloads with zero-downtime deployments. Proficient in Infrastructure as Code using Terraform and implementing DevSecOps practices, observability with Prometheus, Grafana, and CloudWatch, and FinOps-driven cloud cost optimization.
 
 ---
 
@@ -34,9 +40,9 @@
 - **CI/CD**: Jenkins
 - **Source Control**: GitHub
 - **Infrastructure as code**: Terraform  
-- **Containers & Orchestration**: Docker,Kubernetes    
+- **Containers & Orchestration**: Docker, Kubernetes    
 - **Monitoring**: Prometheus, Amazon CloudWatch 
-- **Security / DevSecOps**: IAM,RBAC,SonarQube
+- **Security / DevSecOps**: IAM, RBAC, SonarQube
  - **Scripting**: Bash/Shell
 - **Operating Systems**: Linux
 
@@ -74,7 +80,7 @@ Enforce secure access control using **AWS IAM and Kubernetes RBAC**, implementin
 
 ## ⚙️ Skills Showcase
 
-<p align="left">
+<p align="center">
   <!-- AWS -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" />
