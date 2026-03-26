@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner3.png" alt="GitHub Banner"/>
+  <img src="https://github.com/ravikumar504/ravikumar504/blob/main/Banner4.png" alt="GitHub Banner"/>
 </div>
 <br>
 <b>☁️ Building Secure, Scalable & Cost-Efficient Platforms</b>
