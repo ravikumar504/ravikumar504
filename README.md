@@ -72,11 +72,6 @@ Implement infrastructure and application monitoring using **Prometheus, Grafana 
 Enforce secure access control using **AWS IAM and Kubernetes RBAC**, implementing role-based and least-privilege policies to protect cloud and application resources.
 
 ---
-## 🏆 Certifications
-
-- Certified Kubernetes Application Developer (CKAD)
-
----
 
 ## ⚙️ Skills Showcase
 
