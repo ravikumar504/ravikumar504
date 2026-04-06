@@ -17,7 +17,7 @@
 🚀 DevOps • Cloud • Automation 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ravikumar504/)
-[![Gmail](https://img.shields.io/badge/Email-bandiravi504@gmail.com-red?logo=gmail&style=flat)](mailto:bandiravi504@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-bandiravi504@gmail.com-red?logo=gmail&style=flat)](mailto:ravikumar.devsecops@gmail.com)
 
 ---
 ### 🚀 Key Highlights
